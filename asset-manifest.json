@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Party-Planner-Buddy/static/css/main.10540457.chunk.css",
+    "main.js": "/Party-Planner-Buddy/static/js/main.9223c2ac.chunk.js",
+    "main.js.map": "/Party-Planner-Buddy/static/js/main.9223c2ac.chunk.js.map",
+    "runtime-main.js": "/Party-Planner-Buddy/static/js/runtime-main.02da7f42.js",
+    "runtime-main.js.map": "/Party-Planner-Buddy/static/js/runtime-main.02da7f42.js.map",
+    "static/js/2.b2f056da.chunk.js": "/Party-Planner-Buddy/static/js/2.b2f056da.chunk.js",
+    "static/js/2.b2f056da.chunk.js.map": "/Party-Planner-Buddy/static/js/2.b2f056da.chunk.js.map",
+    "index.html": "/Party-Planner-Buddy/index.html",
+    "precache-manifest.87a700835cd7e2c1848959916d6071b8.js": "/Party-Planner-Buddy/precache-manifest.87a700835cd7e2c1848959916d6071b8.js",
+    "service-worker.js": "/Party-Planner-Buddy/service-worker.js",
+    "static/css/main.10540457.chunk.css.map": "/Party-Planner-Buddy/static/css/main.10540457.chunk.css.map",
+    "static/js/2.b2f056da.chunk.js.LICENSE.txt": "/Party-Planner-Buddy/static/js/2.b2f056da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02da7f42.js",
+    "static/js/2.b2f056da.chunk.js",
+    "static/css/main.10540457.chunk.css",
+    "static/js/main.9223c2ac.chunk.js"
+  ]
+}
