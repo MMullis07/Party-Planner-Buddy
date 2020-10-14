@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap");
+
+body {
+  font-family: 'Rock Salt', cursive;;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: #004d1a no-repeat center center fixed;
+}
+.header {
+  padding: 40px 70px 265px 40px;
+  margin-bottom: 50px;
+  background: url('https://libreshot.com/wp-content/uploads/2017/03/dancing-people-on-the-party.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  line-height: 2.0;
+  text-shadow: 3px 3px black;
+}
+.header h1{
+  font-size: 50px;
+}
+.header p {
+  font-size: 24px;;
+}
+
+.guests {
+margin-top: 50px;
+color: white;
+font-size: 32px;
+}
+input {
+  width: 300px;
+  height: 30px;
+  font-size: 20px;
+}
+.budget {
+  margin-top: 50px;
+  color: white;
+  font-size: 32px;
+}
+li {
+  display: table;
+}
+.row {
+  display: flex;
+  background: url('https://libreshot.com/wp-content/uploads/2017/03/dancing-people-on-the-party.jpg')no-repeat center center fixed;
+  background-size: cover;
+}
+.column {
+  display: grid;
+  vertical-align: middle;
+  justify-content: center;
+  flex: 50%;
+  flex-direction: column;
+  color: white;
+  font-size: 17px;
+  margin-left: -40px;
+  margin-right: -40px;
+  text-shadow: 3px 3px black;
+}
+.cartButton {
+  margin: 20px 0px 20px -100px;
+  padding: 10px;
+  border-radius: 25px;
+  justify-content: left;
+  display: table-cell;
+  transition-duration: 0.5s;
+  font-size: 20px;
+  border: none;
+}
+.cartButton:hover {
+  background-color: #c6ff1a;
+  color: white;
+}
+h3 {
+  font-size: 22px;
+  color: white;
+  margin-bottom: 5px;
+}
+#ItemCart {
+  display: grid;
+  vertical-align: middle;
+  justify-content: center;
+  flex: 50%;
+  flex-direction: column;
+  color: white;
+  font-size: 17px;
+  margin-left: -40px;
+  margin-right: -40px;
+}
+.emptyCart {
+  max-height: 30px;
+  min-height: 30px;
+  border-radius: 25px;
+  border: none;
+  padding: 10px 10px 10px 10px;
+  padding-bottom: 35px;
+  font-size: 20px;
+  transition-duration: 0.5s;
+}
+.emptyCart:hover {
+  background-color: #cc0000;
+  color: white;
+}
+h5 {
+  font-size: 20px;
+}
